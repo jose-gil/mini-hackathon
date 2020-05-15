@@ -6,10 +6,10 @@ La idea es pasar un rato divertido aprendiendo unos de otros.
 Desarrollar el proyecto más loco posible en 2 horas utilizando el simulador de circuitos con Arduino.
 
 ## Lugar 
-[Google Meet - https://meet.google.com/xyd-ooxp-nry](https://meet.google.com/xyd-ooxp-nry)
+Google Meet
 
 ## Horario
-Viernes 15 de mayo de 23h a 1h (16 de mayo).
+POSPUESTO - Viernes -- de mayo de 23h a 1h (-- de mayo).
 
 ## Plataforma
 [Autodesk Tinkercad](https://www.tinkercad.com).
@@ -17,7 +17,7 @@ Viernes 15 de mayo de 23h a 1h (16 de mayo).
 ## Inscripciones
 Enviar mensaje por Slack o correo a Jose Gil indicando el nombre de los participantes que quiren inscribirse.
 
-La fecha límite para inscribirse el viernes 15 de mayo a las 14h.
+La fecha límite para inscribirse el viernes -- de mayo a las 14h.
 
 ## Equipos
 De 1 a 3 personas.
